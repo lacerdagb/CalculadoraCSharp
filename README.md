@@ -10,10 +10,10 @@ Esta calculadora suporta as seguintes operações:
 
 1. ➕ **Soma**
 2. ➖ **Subtração**
-3. ➗ **Divisão** (com tratamento de divisão por zero)
+3. ➗ **Divisão** 
 4. ✖️ **Multiplicação**
 5. 🧪 **Potenciação**
-6. 📝 **Raiz Quadrada** (com tratamento para números negativos)
+6. 📝 **Raiz Quadrada** 
 7. 🚪 **Sair** (encerra o programa)
 
 ---
@@ -25,17 +25,27 @@ Esta calculadora suporta as seguintes operações:
 - **IDE Recomendada**: Visual Studio ou Visual Studio Code
 
 ---
-1-Soma
-2-Subtracao
-3-Divisao
-4-Multiplicacao
-5-Potencia
-6-Raiz
-7-Sair
+## 🤝 Contribuições
 
-Você está somando
-Digite o primeiro número:
-5
-Digite o segundo número:
-3
-O Resultado da soma é 8
+Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para:
+
+- **Abrir uma issue** com sua sugestão.
+- **Enviar um pull request**.
+
+Vamos melhorar juntos! 😊
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+## ✨ Créditos
+
+Desenvolvido por **(https://github.com/lacerdagb)** com muito 💻 e Whey 💪.
+
+---
+
+**Divirta-se calculando!** 🧮🚀
