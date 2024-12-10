@@ -65,7 +65,7 @@ internal class Program
             Console.WriteLine("Digite o segundo número: ");
             int b = int.Parse(Console.ReadLine());
             int resultado = a - b;
-            Console.WriteLine($"O Resultado da substração é {resultado}");
+            Console.WriteLine($"O Resultado da subtração é {resultado}");
             Console.WriteLine("Aperte enter para voltar para o menu");
             Console.ReadLine();
         }
