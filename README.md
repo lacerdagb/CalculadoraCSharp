@@ -1,3 +1,5 @@
+![calc1](https://github.com/user-attachments/assets/82e1b3b2-c18d-4c18-9c69-b7f6a21ec067)
+
 # 🧮 Calculadora em C#
 
 Bem-vindo à **Calculadora em C#**! Este projeto é uma calculadora de console simples que realiza operações matemáticas básicas e avançadas. Perfeito para quem está começando a programar em **C#** e deseja praticar! 🚀
